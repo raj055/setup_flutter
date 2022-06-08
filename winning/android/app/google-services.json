@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "827404185166",
+    "firebase_url": "https://winning-team-b843f.firebaseio.com",
+    "project_id": "winning-team-b843f",
+    "storage_bucket": "winning-team-b843f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827404185166:android:578ad4a9deb35972",
+        "android_client_info": {
+          "package_name": "com.mobiknight.winningteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827404185166-m8p5ejq50cfd4sc11e6u4ptot43u8ov7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobiknight.winningteam",
+            "certificate_hash": "b9c55d28144f5555bd2943d90afdd1ba851920a6"
+          }
+        },
+        {
+          "client_id": "827404185166-kpuud8h2hsmpqoapa1q4s90ie3cscbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeI3qsiITciai5u4spFTr80rg9hkO-Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827404185166-kpuud8h2hsmpqoapa1q4s90ie3cscbou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827404185166-gq7k5v6sp1bmdeuo52g5os6vcu6trb3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winningteam.wt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

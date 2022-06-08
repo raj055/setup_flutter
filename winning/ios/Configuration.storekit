@@ -1,0 +1,63 @@
+{
+  "identifier" : "97B5A738",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "35.99",
+      "familyShareable" : false,
+      "internalID" : "C4A37D03",
+      "localizations" : [
+        {
+          "description" : "Promo Code ",
+          "displayName" : "Associate",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "associate_promo_code",
+      "referenceName" : "Associate Promo Code ",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "54.99",
+      "familyShareable" : false,
+      "internalID" : "C98FAC8D",
+      "localizations" : [
+        {
+          "description" : "Activation code price is $54.99.",
+          "displayName" : "Leader",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "leader_promo_code",
+      "referenceName" : "Leader Promo Code",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "74.99",
+      "familyShareable" : false,
+      "internalID" : "03C6F709",
+      "localizations" : [
+        {
+          "description" : "Activation code price is $74.99.",
+          "displayName" : "Core Committee",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "core_committee_promo_code",
+      "referenceName" : "Core Committee Promo Code",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827404185166-vt2ptlj37efdogjqce0oapqjjgq7n4vn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827404185166-vt2ptlj37efdogjqce0oapqjjgq7n4vn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>827404185166-m8p5ejq50cfd4sc11e6u4ptot43u8ov7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKh7fy_LRdvSpfa5vAPfSwktorm00dS3w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827404185166</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.winning-team.wt</string>
+	<key>PROJECT_ID</key>
+	<string>winning-team-b843f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>winning-team-b843f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827404185166:ios:2d13b78309f9980eb45d1f</string>
+	<key>DATABASE_URL</key>
+	<string>https://winning-team-b843f.firebaseio.com</string>
+</dict>
+</plist>

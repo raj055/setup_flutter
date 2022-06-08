@@ -1,0 +1,56 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "9c31a75f7c58e02b0e07b31fe0a8d1c688a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/xipmac1/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/xipmac1/Library/Developer/Xcode/DerivedData/Runner-enylyhuvocuxlrakploaasxhlhhm/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/xipmac1/Library/Developer/Xcode/DerivedData/Runner-enylyhuvocuxlrakploaasxhlhhm/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "C8604587-C25C-4281-A89B-C5AE2D3A31A6",
+          "TARGET_DEVICE_MODEL" : "iPhone13,4",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
