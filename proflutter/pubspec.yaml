@@ -1,0 +1,192 @@
+name: prokit_flutter
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.0.2
+  nb_utils: ^4.0.6
+  google_fonts: 2.0.0
+  animations: ^2.0.0
+  intl: ^0.17.0
+  http: ^0.13.0
+  firebase_core: ^1.0.1
+  firebase_crashlytics: ^1.0.0
+  google_mobile_ads: ^0.11.0+2
+  html: ^0.15.0
+  share: ^2.0.1
+  mobx: ^1.2.1+2
+  flutter_mobx: ^1.1.0+2
+  flutter_vector_icons: ^1.0.0
+  package_info: ^2.0.0
+
+  simple_animations: ^3.0.1
+  snaplist: 0.1.8
+  flutter_svg: ^0.21.0-nullsafety.0
+  flutter_slidable: 0.5.7
+  flutter_staggered_grid_view: ^0.3.4
+  flutter_staggered_animations: 1.0.0
+
+  google_sign_in: ^5.0.0
+  geolocator: ^7.0.1
+  geocoder: 0.2.1
+  google_maps_flutter: ^2.0.1
+  razorpay_flutter: ^1.2.5
+  signature: ^4.0.0-nullsafety
+  liquid_swipe: ^2.0.0
+  lipsum: 1.0.1
+  flutter_colorpicker: ^0.3.5
+  clippy_flutter: 1.1.1
+  flutter_tags: ^0.4.8
+  video_player: ^2.0.2
+  charts_flutter: ^0.10.0
+  flutter_reaction_button: ^1.0.7+3
+  lottie: ^1.0.1
+  showcaseview: ^0.1.6
+  cached_network_image: ^2.3.1
+  local_auth: ^1.1.0
+  dots_indicator: ^2.0.0
+  flutter_banner: ^1.0.1
+  image_picker: ^0.7.2
+  file_picker: ^3.0.0
+  flutter_local_notifications: ^5.0.0-nullsafety.1
+  flutter_rating_bar: ^4.0.0
+  percent_indicator: 2.1.9+1
+  carousel_slider:  4.0.0-nullsafety.0
+
+  geohash: ^0.2.1
+
+  #Dimond kit
+  sleek_circular_slider: ^2.0.0
+  sliding_up_panel: ^1.0.2
+
+  #clustering_google_maps: ^0.1.2
+  #image_picker_gallery_camera: 0.1.6
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mobx_codegen: ^1.1.2
+  build_runner: ^1.11.5
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - images/smartDeck/images/
+    - images/smartDeck/images/sdchats.png
+    - images/smartDeck/images/sdupdate.png
+    - images/Reaction/images/
+    - images/Reaction/images/SocialMedia/
+    - images/Tinder/images/
+    - images/LikeButton/image/grey.jpg
+    - assets/integrations/lang/
+    - assets/shophop_data/
+    - images/app/icons/
+    - images/app/
+    - images/app/ic_rate_app.png
+    - images/theme1/
+    - images/theme2/
+    - images/theme3/
+    - images/theme4/
+    - images/theme5/
+    - images/theme6/
+    - images/theme7/
+    - images/theme8/
+    - images/theme9/
+    - images/theme10/
+    - images/theme11/
+    - images/theme12/
+    - images/theme13/
+    - images/theme14/
+    - images/theme12/mastercard.png
+    - images/dashboard/
+    - images/qibus/
+    - images/learner/
+    - images/social/
+    - images/quiz/
+    - images/food/
+    - images/grocery/
+    - images/integrations/icons/
+    - images/integrations/img/
+    - images/shophop/
+    - images/shophop/radar.gif
+    - images/shophop/img/products/
+    - images/shophop/img/products/decor/
+    - images/shophop/img/products/dress/
+    - images/shophop/img/products/shoes/
+    - images/shophop/img/products/banners/b1.jpg
+    - images/shophop/img/products/banners/b2.jpg
+    - images/shophop/img/products/banners/b3.jpg
+    - images/shophop/img/products/banners/b4.jpg
+    - images/shophop/img/products/banners/b5.jpg
+    - images/shophop/img/products/banners/b6.jpg
+    - images/theme12/
+    - images/theme12/mastercard.png
+    - images/orapay/
+    - images/muvi/icons/
+    - images/muvi/images/
+    - images/widgets/materialWidgets/mwAppStructureWidgets/BottomNavigation/
+    - images/widgets/materialWidgets/mwAppStructureWidgets/TabBar/
+    - images/widgets/materialWidgets/mwInputSelectionWidgets/Checkbox/
+    - images/widgets/materialWidgets/mwInputSelectionWidgets/switch/
+    - images/widgets/materialWidgets/mwInformationDisplayWidgets/cards/
+    - images/widgets/materialWidgets/mwInformationDisplayWidgets/gridview/
+    - images/widgets/materialWidgets/mwInputSelectionWidgets/Checkbox/
+    - images/widgets/materialWidgets/mwInputSelectionWidgets/switch/
+    - images/widgets/materialWidgets/mwLayoutWidgtes/MWUserAccountDrawerHeaderWidget/
+    - images/widgets/materialWidgets/mwDialogAlertPanelWidgets/
+    - images/widgets/materialWidgets/mwLayoutWidgtes/MWListTile/
+    - images/widgets/cupertinoWidgets/
+    - images/widgets/materialWidgets/mwInformationDisplayWidgets/listView/
+    - images/widgets/animationAndMotionWidgets/
+    - images/widgets/paintingAndEffectWidgets/opacity/
+    - images/widgets/interactionModelWidgets/
+    - images/defaultTheme/
+    - images/defaultTheme/category/
+    - images/defaultTheme/banner/
+    - images/hairSalon/
+    - images/ProCricketUI/
+    - images/banking/
+    - images/mpmusic/
+    - images/newsBlog/
+
+    - assets/integrations/map_point.json
+    - assets/defaultTheme/
+    - assets/cricket_data/
+    - lang/en.json
+    - lang/hi.json
+
+  fonts:
+    - family: Andina
+      fonts:
+        - asset: fonts/andina.ttf
+
+    - family: Regular
+      fonts:
+        - asset: fonts/googlesansregular.ttf
+
+    - family: Medium
+      fonts:
+        - asset: fonts/googlesansmedium.ttf
+
+    - family: Semibold
+      fonts:
+        - asset: fonts/googlesansmedium.ttf
+
+    - family: Bold
+      fonts:
+        - asset: fonts/googlesansebold.ttf
+
